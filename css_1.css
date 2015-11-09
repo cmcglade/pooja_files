@@ -1,0 +1,52 @@
+P.special {
+color : green;
+border: 1px dashed red;
+font-size: 25px;
+padding: 10px
+float:left;
+margin: 0px 0px 150px 100px;
+
+}
+
+para {
+font-family: Comic Sans MS, Arial;
+color: #0704B2;
+}
+
+#bold {
+font-weight: bold;
+}
+
+span {
+font-decoration: italic;
+font-size: 25;
+color: red;
+}
+
+div {
+border: 5px solid green;
+padding: 0px 60px 150px;
+
+}
+
+div .topleft{
+width:50%
+position:fixed;
+top:0;
+left:0;
+border: 5px solid blue;
+padding: 0px 60px 150px;
+
+}
+
+div .topright{
+width:25%
+position:fixed;
+top:0;
+left:0;
+border: 5px solid yellow;
+padding: 0px 60px 150px;
+
+}
+
+

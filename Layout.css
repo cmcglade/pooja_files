@@ -1,0 +1,275 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+h1{
+	color: #340034;
+}
+
+li{
+
+    list-style-type: none;
+}
+
+#position{
+    position: relative;
+}
+
+#logo{
+
+display: inline-block;
+    float: left;
+    text-align: center; width: 20%; 
+    font color: red;
+    padding-top: 15px;
+}
+
+
+#nav {
+	background-color: #ffa07a;
+	padding: 4em 1em;
+	margin-bottom: 4em;
+
+	
+}
+
+
+#nav1
+{
+    display: inline-block;
+    float: right;
+    text-align: left; width: 20%; 
+   
+}
+
+#nav2
+{
+    display: inline-block;
+    float: right;
+    text-align: left; width: 8%;
+    
+}
+
+#nav3
+{
+   display: inline-block;
+    float: right;
+    text-align: left; width: 8%;
+   
+}
+
+#nav4
+{
+     display: inline-block;
+    float: right;
+    text-align: left; width: 8%; 
+
+}
+
+
+#header{
+
+	height: 20%;
+	width: 80%;
+	padding-left: 250px;
+}
+
+#dress{
+
+	display: inline-block;
+    background: #e5e5e5;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom: 1em; 
+    margin-left: 5%; 
+    font-style: italic;
+}
+
+#images{
+
+	padding-left: 10%;
+}
+
+.outer {
+    background: #E9F2E1;
+    width: 80%;
+    height 50%;
+    margin: 5%;
+    padding: 5px;
+}
+
+
+.box {
+    display: inline-block;
+    background: #e5e5e5;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom: 1em; 
+    margin-left: 5%; 
+    font-style: italic;
+}
+
+.box2 {
+    display: inline-block;
+    background: #cdb7b5;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom: 1em;
+    margin-left: 3%;
+     font-style: italic;
+}
+    
+.box3 {
+    display: inline-block;
+    background: #e5e5e5;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom:1em;
+    margin-left: 3%;
+    font-style: italic;
+}
+
+.box4 {
+    display: inline-block;
+    background: #cdb7b5;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom:1em;
+    margin-left: 3%;
+    font-style: italic;
+}
+    
+.box5{
+    display: inline-block;
+    background: #340034;
+    width: 15%;
+    height: 50%;
+    padding: 5px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom:1em;
+    margin-left: 5%;
+    margin-right: 800px;
+    font-style: italic;
+    font-size: 18px;
+}
+    
+.dress1 {
+    display: inline-block;
+    background: #fde7b4;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom: 1em; 
+    margin-left: 5%; 
+    font-style: italic;
+}
+
+.dress2 {
+    display: inline-block;
+    background: #fde7b4;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom: 1em;
+    margin-left: 3%;
+     font-style: italic;
+}
+    
+.dress3 {
+    display: inline-block;
+    background: #fde7b4;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom:1em;
+    margin-left: 3%;
+    font-style: italic;
+}
+
+.dress4 {
+    display: inline-block;
+    background: #fde7b4;
+    width: 15%;
+    height: 50%;
+    padding: 20px;
+    float: left;
+    text-align: center; 
+    font-family: Times New Roman, serif;
+    margin-bottom:1em;
+    margin-left: 3%;
+    font-style: italic;
+}
+    
+.footer {
+    background: #E9F2E1;
+    width: 80%;
+    height 80%;
+    margin: 5%;
+    padding: 5px;
+}
+
+.socialmedia {
+    text-align: right;
+    background: #E9F2E1;
+    width: 80%;
+    height 50%;
+    margin: 5%;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
